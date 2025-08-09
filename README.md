@@ -1,2 +1,3 @@
-# curriculo
-Um esboço de currículo!
+# Portfólio
+
+Portfólio de Thompson Raul dos Santos Vieira.

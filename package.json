@@ -1,7 +1,7 @@
 {
-  "name": "curriculo",
+  "name": "portfolio-thompson",
   "version": "1.0.0",
-  "description": "Um esboço de currículo!",
+  "description": "Portfólio de Thompson Raul dos Santos Vieira.",
   "main": "index.js",
   "scripts": {
     "dev": "next dev"
@@ -9,10 +9,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@iconify/react": "^6.0.0",
     "next": "^13.1.6",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-icons": "^5.5.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
